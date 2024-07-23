@@ -4,7 +4,7 @@
 The assignment is to build a tool that will parse and check the emails in a Google and Outlook email ID, and
 respond to the e-mails based on the context using AI. Use BullMQ as the tasks scheduler
 This is a server-based application built with Node.js and Express. It uses various packages such as  `openai` for AI functionalities, `googleapis` for Google APIs, and `axios` for HTTP requests and `bullMQ` to process queues.
-![image](https://github.com/shraddha-gawde/reachInbox-assignment/assets/101090200/0237adc4-c817-4d79-9b09-fc0b27f34e6e)
+![image](https://github.com/srishty-sengar/reachInbox-assignment/assets/101090200/0237adc4-c817-4d79-9b09-fc0b27f34e6e)
 
 
 ## deployed links :
@@ -36,7 +36,7 @@ API documentation build with postman documentation - [Link](https://documenter.g
 ## Installation setup
 1. Clone the repository to your local machine
 ```bash
-git clone https://github.com/shraddha-gawde/reachInbox-assignment.git
+git clone https://github.com/srishty-sengar/reachInbox-assignment.git
 ```
 2. Navigate to the root directory of the project directory :
 ```bash 
@@ -88,7 +88,7 @@ npm run server
     "to":["demo@gmail.com","demo@gmail.com", "demo@gmail.com"]
 }
 ```
-![image](https://github.com/shraddha-gawde/reachInbox-assignment/assets/101090200/e0bbbdce-1ec4-46c4-8335-e049f7f5b5c7)
+![image](https://github.com/srishty-sengar/reachInbox-assignment/assets/101090200/e0bbbdce-1ec4-46c4-8335-e049f7f5b5c7)
 
 ### For microsoft azur's OAuth2.0:
 
